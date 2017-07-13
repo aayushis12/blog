@@ -1,0 +1,34 @@
+.sections{
+	border:2px solid #D3D3D3;
+	padding:2%;
+}
+
+.sections span{
+	display:flex;
+
+	flex-direction:column;
+}
+
+.box{
+	max-height:17vh;
+	overflow-y:scroll;
+	width:45%;
+	margin:auto;
+
+	vertical-align:middle;
+
+	transform:translateY(38vh);
+}
+
+.text{
+	display:flex;
+	justify-content:true;
+	position:relative;
+	margin:0.2em;
+	
+}
+
+.login-box{
+	padding:2%;
+}
+
