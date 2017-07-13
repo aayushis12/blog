@@ -13,3 +13,4 @@ Launch mongodb and execute the following commands-
   Go to your browser and run localhost:8080 and in the fields enter 'a' as username and anything as password since our tables are getting referenced by the username.Why 'a'? Because in the asset collection we only have one entry.
   
   When you press the login button, you will be navigated to another page.
+  
