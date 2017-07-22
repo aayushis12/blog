@@ -1,34 +1,13 @@
-.sections{
-	border:2px solid #D3D3D3;
-	padding:2%;
-}
-
-.sections span{
-	display:flex;
-
-	flex-direction:column;
-}
-
 .box{
-	max-height:17vh;
-	overflow-y:scroll;
-	width:45%;
-	margin:auto;
-
-	vertical-align:middle;
-
-	transform:translateY(38vh);
+	border:2px solid gray;
+	min-height:13vh;
+	width:40%;
+	float:left;
+	padding:1%;
+	margin: 1%;
 }
-
-.text{
-	display:flex;
-	justify-content:true;
-	position:relative;
-	margin:0.2em;
-	
+.row{
+	margin: 0 auto;
+	padding: 1%;
+	overflow-y: scroll;
 }
-
-.login-box{
-	padding:2%;
-}
-
